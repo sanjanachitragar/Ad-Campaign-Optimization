@@ -17,4 +17,5 @@ This project utilizes data analytics to provide actionable insights for optimizi
 - 📊 **Pandas, NumPy**: Data analysis and manipulation.
 - 📈 **Scikit-learn**: Linear regression modeling.
 - 🧪 **A/B Testing**: Statistical hypothesis testing.
+- ⏳ **Time Series Analysis**: Campaign performance trend analysis.
 - 📊 **Matplotlib/Seaborn**: Data visualization.
